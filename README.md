@@ -13,6 +13,8 @@ Go to http://localhost:3000
 
 ## Control content from Cosmic JS
 [Sign up for Cosmic JS](https://cosmicjs.com), then install this app (located in Bucket > Settings > Apps).  After setup, you can configure all layout, content and animations within your Cosmic JS dashboard.
+
+To run locally:
 ```
 COSMIC_BUCKET=your-bucket-slug npm start
 ```
