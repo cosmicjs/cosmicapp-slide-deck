@@ -11,7 +11,7 @@ npm start
 ```
 Go to http://localhost:3000
 
-## Create your own slide deck
+## Connect to your bucket
 [Sign up for Cosmic JS](https://cosmicjs.com) to install this app and edit the content.  Then connect to your Cosmic JS bucket.  After setup, you can configure all layout, content and animations within your Cosmic JS dashboard.
 ```
 COSMIC_BUCKET=your-bucket-slug npm start
