@@ -173,7 +173,7 @@
         "order": 2,
         "slug": "step-2",
         "title": "Step 2",
-        "content": "<q>Do you notice that <span style=\"font-weight: bold;\">development</span>&nbsp;<span style=\"font-weight: bold;\">time</span> seems to run away during CMS installation?</q>",
+        "content": "<q>Do you notice that <b>development time</b> seems to run away during CMS installation?</q>",
         "metafields": [
           {
             "value": "slide",
@@ -248,14 +248,14 @@
           "content_editor": 1
         },
         "status": "published",
-        "modified": "2016-07-10T01:43:58.201Z"
+        "modified": "2016-07-10T04:09:19.401Z"
       },
       {
         "_id": "5781419f9bbf925a48000364",
         "order": 3,
         "slug": "step-3",
         "title": "Step 3",
-        "content": "<q>Wouldn't you like to make your client (and yourself)&nbsp;<span style=\"font-weight: bold;\">happy</span> by reducing <strong>dev time</strong> and having an <span style=\"font-weight: bold;\">easier-to-use</span> CMS?</q>",
+        "content": "<q>Wouldn't you like to <span style=\"font-weight: bold;\">reduce dev time</span> and make your client (and yourself) <b>happier</b>?</q>",
         "metafields": [
           {
             "value": "slide",
@@ -330,7 +330,7 @@
           "content_editor": 1
         },
         "status": "published",
-        "modified": "2016-07-10T01:47:53.911Z"
+        "modified": "2016-07-10T04:47:04.483Z"
       },
       {
         "_id": "578141bc9bbf925a48000368",
@@ -419,7 +419,7 @@
         "order": 5,
         "slug": "step-5",
         "title": "Step 5",
-        "content": "<p>Cosmic JS is&nbsp;a cloud-hosted, API-first content platform that will<span style=\"font-weight: bold;\"> </span>save you<span style=\"font-weight: bold;\"> time</span> and <span style=\"font-weight: bold;\">money</span> during development.</p>",
+        "content": "<p>Cosmic JS is&nbsp;a cloud-hosted, API-first content platform that will<span style=\"font-weight: bold;\"> </span>save you<span style=\"font-weight: bold;\"> time</span> and <span style=\"font-weight: bold;\">money</span> during development.<br>No installation necessary.</p>",
         "metafields": [
           {
             "value": "",
@@ -494,7 +494,7 @@
           "content_editor": 1
         },
         "status": "published",
-        "modified": "2016-07-10T01:42:40.907Z"
+        "modified": "2016-07-10T12:43:54.441Z"
       },
       {
         "_id": "578141d99bbf925a4800036c",
@@ -747,7 +747,7 @@
         "order": 9,
         "slug": "step-9",
         "title": "Step 9",
-        "content": "<p>you are building your content <span style=\"font-weight: bold;\">API-first</span><br>and <span style=\"font-weight: bold;\">ready</span> for the future</p>",
+        "content": "<p>you are building your <span style=\"font-weight: bold;\">content</span> API-first<br>and <span style=\"font-weight: bold;\">ready</span> for the <span style=\"font-weight: bold;\">future</span>.</p>",
         "metafields": [
           {
             "value": "",
@@ -822,7 +822,7 @@
           "content_editor": 1
         },
         "status": "published",
-        "modified": "2016-07-10T02:18:21.837Z"
+        "modified": "2016-07-10T12:44:36.085Z"
       },
       {
         "_id": "578142199bbf925a48000374",
