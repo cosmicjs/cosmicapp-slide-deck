@@ -12,7 +12,7 @@ npm start
 Go to http://localhost:3000
 
 ## Connect to your bucket
-[Sign up for Cosmic JS](https://cosmicjs.com) to install this app and edit the content.  Then connect to your Cosmic JS bucket.  After setup, you can configure all layout, content and animations within your Cosmic JS dashboard.
+[Sign up for Cosmic JS](https://cosmicjs.com), then install this app (localted in Bucket > Settings > Apps).  After setup, you can configure all layout, content and animations within your Cosmic JS dashboard.
 ```
 COSMIC_BUCKET=your-bucket-slug npm start
 ```
