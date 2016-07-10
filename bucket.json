@@ -665,7 +665,7 @@
         "order": 8,
         "slug": "step-8",
         "title": "Step 8",
-        "content": "<p>By <span class=\"positioning\">allowing content</span>&nbsp;to be delivered to any desktop, mobile or web application...</p>",
+        "content": "<p>By <span class=\"positioning\">providing your content from an API, your content</span> can be delivered to any desktop, mobile or web application...</p>",
         "metafields": [
           {
             "value": "",
@@ -740,14 +740,14 @@
           "content_editor": 1
         },
         "status": "published",
-        "modified": "2016-07-10T01:39:47.589Z"
+        "modified": "2016-07-10T14:24:38.434Z"
       },
       {
         "_id": "5781420a9bbf925a48000372",
         "order": 9,
         "slug": "step-9",
         "title": "Step 9",
-        "content": "<p>you are building your <span style=\"font-weight: bold;\">content</span> API-first<br>and <span style=\"font-weight: bold;\">ready</span> for the <span style=\"font-weight: bold;\">future</span>.</p>",
+        "content": "<p>making your content <span style=\"font-weight: bold;\">ready for the future</span>.</p>",
         "metafields": [
           {
             "value": "",
@@ -822,7 +822,7 @@
           "content_editor": 1
         },
         "status": "published",
-        "modified": "2016-07-10T12:44:36.085Z"
+        "modified": "2016-07-10T14:25:46.416Z"
       },
       {
         "_id": "578142199bbf925a48000374",
