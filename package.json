@@ -1,0 +1,18 @@
+{
+  "name": "cosmicapp-slide-deck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cosmicjs": "^2.1.2",
+    "express": "^4.14.0",
+    "hogan-express": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
